@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LeUojEpmsqY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roberto.aresta\\OneDrive - Fincons Spa\\Desktop\\Develop\\AlphaShop_BE\\AlphaShop_BE\\AlphaShop_BE\\AlphaShop_BE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roberto.aresta\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\roberto.aresta\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\roberto.aresta\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}
