@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "AlphaShop_BE\\AlphaShop_BE.test\\SalutiControllerTest.cs",
               "ToolTip": "C:\\Users\\roberto.aresta\\OneDrive - Fincons Spa\\Desktop\\Develop\\AlphaShop_BE\\AlphaShop_BE\\AlphaShop_BE\\AlphaShop_BE.test\\SalutiControllerTest.cs",
               "RelativeToolTip": "AlphaShop_BE\\AlphaShop_BE.test\\SalutiControllerTest.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T12:17:29.022Z",
               "EditorCaption": ""
@@ -82,8 +82,7 @@
               "ToolTip": "C:\\Users\\roberto.aresta\\OneDrive - Fincons Spa\\Desktop\\Develop\\AlphaShop_BE\\AlphaShop_BE\\AlphaShop_BE\\AlphaShop_BE.csproj",
               "RelativeToolTip": "AlphaShop_BE\\AlphaShop_BE.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-13T11:37:52.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T11:37:52.437Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "AlphaShop_BE\\Controllers\\SalutiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T15:11:02.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T15:11:02.241Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "AlphaShop_BE\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T14:49:45.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T14:49:45.029Z"
             }
           ]
         },
