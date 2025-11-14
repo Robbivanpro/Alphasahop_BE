@@ -11,4 +11,11 @@
     <PackageReference Include="xunit.extensibility.core" Version="2.9.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="AlphaShop_BE.test/**" />
+    <Content Remove="AlphaShop_BE.test/**" />
+    <EmbeddedResource Remove="AlphaShop_BE.test/**" />
+    <None Remove="AlphaShop_BE.test/**" />
+  </ItemGroup>
+
 </Project>
