@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/AlphaShop_BE.csproj",
+                "${workspaceFolder}/ArticoliWebService/ArticoliWebService.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/AlphaShop_BE.csproj",
+                "${workspaceFolder}/ArticoliWebService/ArticoliWebService.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/AlphaShop_BE.csproj"
+                "${workspaceFolder}/ArticoliWebService/ArticoliWebService.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
