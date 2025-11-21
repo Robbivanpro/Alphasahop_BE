@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService.Test\\ArticoliWebService.test.csproj": {}
+  },
+  "projects": {
+    "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService.Test\\ArticoliWebService.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService.Test\\ArticoliWebService.test.csproj",
+        "projectName": "ArticoliWebService.test",
+        "projectPath": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService.Test\\ArticoliWebService.test.csproj",
+        "packagesPath": "C:\\Users\\Nicola\\.nuget\\packages\\",
+        "outputPath": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService\\ArticoliWebService.csproj": {
+                "projectPath": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService\\ArticoliWebService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService\\ArticoliWebService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService\\ArticoliWebService.csproj",
+        "projectName": "ArticoliWebService",
+        "projectPath": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService\\ArticoliWebService.csproj",
+        "packagesPath": "C:\\Users\\Nicola\\.nuget\\packages\\",
+        "outputPath": "h:\\CSharp\\Udemy\\FullStackAngular\\ver5\\backup\\new\\tmp\\ArticoliWebService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nicola\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

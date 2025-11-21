@@ -16,6 +16,16 @@
     <Content Remove="AlphaShop_BE.test/**" />
     <EmbeddedResource Remove="AlphaShop_BE.test/**" />
     <None Remove="AlphaShop_BE.test/**" />
+
+    <Compile Remove="ArticoliWebService/**" />
+    <Content Remove="ArticoliWebService/**" />
+    <EmbeddedResource Remove="ArticoliWebService/**" />
+    <None Remove="ArticoliWebService/**" />
+
+    <Compile Remove="ArticoliWebService.test/**" />
+    <Content Remove="ArticoliWebService.test/**" />
+    <EmbeddedResource Remove="ArticoliWebService.test/**" />
+    <None Remove="ArticoliWebService.test/**" />
   </ItemGroup>
 
 </Project>

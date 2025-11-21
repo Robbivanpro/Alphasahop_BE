@@ -32,3 +32,4 @@ c:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\Alph
 c:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\obj\Debug\net8.0\AlphaShop_BE.genruntimeconfig.cache
 C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\bin\Debug\net8.0\AlphaShop_BE.pdb
 C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\obj\Debug\net8.0\ref\AlphaShop_BE.dll
+C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

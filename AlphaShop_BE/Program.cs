@@ -15,13 +15,8 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 app.UseCors("AllowSpecificOrigin");
-
-app.UseAuthorization();
-
 app.UseRouting();
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-});
+app.UseAuthorization();
+app.MapControllers();
 
 app.Run();

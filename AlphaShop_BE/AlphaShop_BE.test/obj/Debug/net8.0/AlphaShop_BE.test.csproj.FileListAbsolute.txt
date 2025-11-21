@@ -1,5 +1,0 @@
-C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE.test\obj\Debug\net8.0\AlphaShop_BE.test.csproj.AssemblyReference.cache
-C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE.test\obj\Debug\net8.0\AlphaShop_BE.test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE.test\obj\Debug\net8.0\AlphaShop_BE.test.AssemblyInfoInputs.cache
-C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE.test\obj\Debug\net8.0\AlphaShop_BE.test.AssemblyInfo.cs
-C:\Users\roberto.aresta\OneDrive - Fincons Spa\Desktop\Develop\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE\AlphaShop_BE.test\obj\Debug\net8.0\AlphaShop_BE.test.csproj.CoreCompileInputs.cache
