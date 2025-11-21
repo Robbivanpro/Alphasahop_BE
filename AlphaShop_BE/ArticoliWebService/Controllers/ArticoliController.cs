@@ -40,7 +40,7 @@ namespace ArticoliWebService.Controllers
             {
                 return NotFound(string.Format("Non è stato trovato alcun articolo con il filtro '{0}'", filter));
             }
-            
+
 
             foreach(var articolo in articoli)
             {
@@ -57,7 +57,7 @@ namespace ArticoliWebService.Controllers
         public async Task<IActionResult> GetArticoloByCode(string CodArt)
         {
             bool retVal = await this.articolirepository.ArticoloExists(CodArt);
-            
+
             if (!retVal)
             {
                 return NotFound(string.Format("Non è stato trovato l'articolo con il codice '{0}'", CodArt));
@@ -78,7 +78,7 @@ namespace ArticoliWebService.Controllers
 
             if (articolo == null)
             {
-                return NotFound(string.Format("Non è stato trovato l'articolo con il barcode '{0}'", Ean));
+                return NotFound(new ErrMsg(string.Format("Non è stato trovato l'articolo con il barcode '{0}'", Ean), 404));
             }
 
             return Ok(this.GetArticoliDto(articolo));
